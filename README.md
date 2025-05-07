@@ -1,1 +1,1 @@
-A basic To-Do we application created using ReactJS forntend framework.
+A basic To-Do web application created using ReactJS forntend framework.
